@@ -40,7 +40,7 @@
 
 在 `main` 分支执行合并，由于 `main` 和 `feature` 分支从共同版本分开后，都修改了 `main.c` 的同一部分，Git 无法自动判断最终应该保留一份内容，因此出现了合并冲突：
 
-![1789665535444](image/lab0/1789665535444.png)
+![执行 git merge feature 后出现合并冲突](./merge-conflict.png)
 
 ### 3. 解决冲突
 
