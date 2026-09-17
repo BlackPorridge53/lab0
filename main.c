@@ -5,5 +5,5 @@ int main()
     // @TODO: print a sentence you want.
     
     printf("Hello, world!\n");
-    printf("Hello, ics!\n");
+    printf("qwq\n");
 }
